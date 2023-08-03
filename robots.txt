@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://github.com/pika-chu11/pika-chu11.github.io/sitemap.xml

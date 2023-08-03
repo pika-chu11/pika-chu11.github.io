@@ -1,0 +1,74 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://github.com/pika-chu11/pika-chu11.github.io/</id>
+  <title>My LeetCode Blog 1</title>
+  <subtitle>Record myself doing LeetCode challenge everyday summary</subtitle>
+  <updated>2023-08-03T16:56:05-07:00</updated>
+  <author>
+    <name>Pikachu</name>
+    <uri>https://github.com/pika-chu11/pika-chu11.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://github.com/pika-chu11/pika-chu11.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://github.com/pika-chu11/pika-chu11.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Pikachu </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Day9 LeetCode 2023</title>
+    <link href="https://github.com/pika-chu11/pika-chu11.github.io/posts/Day9-LeetCode-2023/" rel="alternate" type="text/html" title="Day9 LeetCode 2023" />
+    <published>2023-08-03T02:20:00-07:00</published>
+  
+    <updated>2023-08-03T02:20:00-07:00</updated>
+  
+    <id>https://github.com/pika-chu11/pika-chu11.github.io/posts/Day9-LeetCode-2023/</id>
+    <content src="https://github.com/pika-chu11/pika-chu11.github.io/posts/Day9-LeetCode-2023/" />
+    <author>
+      <name>Pikachu</name>
+    </author>
+
+  
+    
+    <category term="leetcode" />
+    
+    <category term="c++" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      28. Find the Index of the First Occurrence in a String
+
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        
+    }
+};
+
+
+
+  字符串的 前缀(prefix) 是指除了 最后一个字符 不包含以外的，所有以第一个字符开头的连续子串。
+
+  后缀(sufix) 是指不包含 第一个字符 的所有以最后一个字符结尾的连续子串。
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
