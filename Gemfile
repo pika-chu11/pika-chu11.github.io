@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.1"
 
-gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-seo-tag', '2.7.0'
 
 group :test do
   gem "html-proofer", "~> 3.18"
